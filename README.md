@@ -1,2 +1,2 @@
 # my-portfolio-using-react
-Portfolio using React 
+Portfolio using ReactJS 
