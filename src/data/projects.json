@@ -1,0 +1,23 @@
+[
+    {
+      "title": "BMI Calculator",
+      "imageSrc": "projects/project1.png",
+      "description": "This is a simple react project made to learn the basics react functionalities by building a site.",
+      "skills": ["React", "Bootstrap", "Node"],
+      "source": "https://github.com/AMJ5670886/bmi-calculator-reactjs"
+    },
+    {
+      "title": "Private Contact",
+      "imageSrc": "projects/project2.png",
+      "description": "This is a project made with react and node to learn basics of full stack.",
+      "skills": ["React", "Express", "Node", "Bootstrap","Mongoose"],
+      "source": "https://github.com/AMJ5670886/private-contact-react-node"
+    },
+    {
+      "title": "Authentication API",
+      "imageSrc": "projects/project3.png",
+      "description": "This is a project made to learn authentication using jwt and to learn REST APIs.",
+      "skills": ["Express", "Node","Mongoose"],
+      "source": "https://github.com/AMJ5670886/enhanced-authentication-api"
+    }
+  ]
