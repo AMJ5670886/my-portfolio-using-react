@@ -1,9 +1,17 @@
 [
     {
       "role": "Software Engineer",
+      "organisation": "Thinkpalm Technologies PVT LTD",
+      "startDate": "Jun, 2024",
+      "endDate": "Present",
+      "experiences": ["Built an executable (EXE) application using Electron, React, and Node.js for the 'Creworks' project, replacing the popular ISF Watchkeeper app", "Worked as Full Stack Developer","Developed API endpoints for UI to interact"],
+      "imageSrc": "history/pivotlogo.png"
+    },
+    {
+      "role": "Software Engineer",
       "organisation": "Pivot Systems",
       "startDate": "Dec, 2020",
-      "endDate": "Present",
+      "endDate": "Jun, 2024",
       "experiences": ["Worked on 3D Simulation Platforms", "Worked as Full Stack Developer","Developed API endpoints for UI to interact"],
       "imageSrc": "history/pivotlogo.png"
     }

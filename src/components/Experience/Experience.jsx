@@ -26,6 +26,7 @@ function Experience() {
                     {
                         history.map((historyItem, id) => {
                             return (
+                                <div>
                                 <li key={id} className={styles.historyItem}>
                                     <div>
                                         <img src={getImageUrl(historyItem.imageSrc)} className={styles.historyLogo} />
@@ -46,6 +47,7 @@ function Experience() {
                                         </ul>
                                     </div>
                                 </li>
+                                </div>
                             )
                         })
                     }
